@@ -1,0 +1,11 @@
+{
+  "id": "insert-jalali-date-plugin",
+  "name": "Insert Jalali Date Plugin",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "افزونه برای درج تاریخ شمسی امروز در Obsidian",
+  "author": "Farzad Dehghani",
+  "authorUrl": "https://github.com/Acczad",
+  "main": "main.js",
+  "repository": "https://github.com/Acczad/obsidian-persian-date"
+}

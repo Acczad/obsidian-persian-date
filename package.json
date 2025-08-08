@@ -1,0 +1,15 @@
+{
+  "name": "insert-jalali-date-plugin",
+  "version": "1.0.0",
+  "description": "افزونه درج تاریخ شمسی",
+  "main": "main.js",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "devDependencies": {
+    "@rollup/plugin-node-resolve": "^15.0.1",
+    "rollup": "^3.20.2",
+    "rollup-plugin-typescript2": "^0.31.2",
+    "typescript": "^5.0.4"
+  }
+}
